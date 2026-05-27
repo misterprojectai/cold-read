@@ -1,6 +1,6 @@
 # QUICK-START
 
-**For Jordan:** 44, two years out of a long relationship, a few apps, a few first dates, no idea why it keeps ending the same way. Five steps. Under five minutes. No need to read anything else first.
+**For the man who keeps having warm conversations that go nowhere.** Five steps. Under five minutes. No need to read anything else first.
 
 ---
 

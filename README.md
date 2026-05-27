@@ -16,17 +16,25 @@ The primary demonstration is dating — one voice running through eight sessions
 
 ## Who This Is For
 
-**Jordan** is 44. He was in a relationship from 27 to 41 and has been out of it for two years. He has tried a few apps, been on several first dates, and can have a pleasant hour of conversation with someone who then never texts back. He is not nervous. He is not unconfident. He has no idea why it keeps ending the same way. He has three problems he faces every week:
+You are competent. That is the problem.
 
-He freezes before approaches in public. Not out of fear of rejection — out of not knowing how the thing he is about to say connects to anything that would happen next.
+You have built something — a career, a company, a reputation, a life that works on paper. You can walk into a boardroom, a client meeting, a technical review, and operate with total confidence. You have evidence that you are capable. You have no evidence that you are present.
 
-He reverts to interview mode on dates. He asks good questions, listens carefully, and the conversation feels warm and then somehow goes nowhere. He can feel the moment it shifts but cannot locate it.
+The conversations that matter to you personally — not professionally — keep ending the same way. Warm, pleasant, going nowhere. You can feel the moment it shifts but you cannot locate it. The feedback arrives days later as silence. You do not know what you are doing wrong because what you are doing looks right from the inside.
 
-He does not know what progress looks like. He is trying to improve something he cannot measure, in a domain where the feedback arrives days later as silence.
+You are not nervous. You are not unconfident. You are not starting from zero. You are starting from rust — the version of yourself that knew how to say the true thing got buried under years of not needing to use it. You have been operating from your head for so long that the path back to your body is overgrown.
 
-Jordan is the primary reader. But Cold Read serves anyone who is competent at what they do and cannot figure out why their conversations do not produce the outcomes they expect. They are not bad communicators. They are not socially awkward. They keep having interactions that are warm, professional, pleasant — and go nowhere. They can feel the moment it shifts but cannot locate it. That is the same problem in every domain.
+You have three problems you face every week:
 
-Cold Read was built for Jordan. If Jordan can load the project, say hi, pick an exercise, and get to something that feels like a real session in under five minutes — the system works.
+You freeze before approaches. Not out of fear of rejection — out of not knowing how the thing you are about to say connects to anything that would happen next.
+
+You revert to interview mode. You ask good questions, listen carefully, and the conversation feels warm and then somehow goes nowhere. You can feel the moment it shifts but you cannot locate it.
+
+You do not know what progress looks like. You are trying to improve something you cannot measure, in a domain where the feedback arrives days later as silence.
+
+You do not need scripts. You do not need confidence. You do not need therapy. You need someone to show you the mechanism you cannot see — why the conversations that feel warm keep producing nothing — and drill you until the fix fires without thinking.
+
+If you can load the project, say hi, pick an exercise, and get to something that feels like a real session in under five minutes — the system works.
 
 ---
 
