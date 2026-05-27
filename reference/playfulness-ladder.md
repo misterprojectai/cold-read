@@ -1,6 +1,6 @@
 # The Playfulness Ladder
 
-A conversation moves through three levels: platonic, playful, and flirty. Each level exists to accomplish something and then yield to the next. The platonic level is where two people get comfortable, exchange real information about themselves, and build the foundation of genuine connection through the spark, the bounce, and the active listening arsenal (see `reference/spark-formula.md` for the spark mechanic and `reference/response-tools.md` for the six-tool arsenal). The playful level is where that foundation gets energized — where the ingredients gathered during platonic conversation get thrown into the bowl and mixed. The flirty level is where the energy gets directed toward attraction. This file covers the playful level — the transition from connection to chemistry that most people either skip entirely or attempt without the foundation that makes it work.
+A conversation moves through three levels: platonic, playful, and flirty. Each level exists to accomplish something and then yield to the next. The platonic level is where two people get comfortable, exchange real information about themselves, and build the foundation of genuine connection through the spark, the bounce, and the active listening arsenal (see `reference/spark-formula.md` for the spark mechanic and `reference/response-tools.md` for the six-tool arsenal). The playful level is where that foundation gets energized — where the ingredients gathered during platonic conversation get thrown into the bowl and mixed. The flirty level is where the energy gets directed toward attraction. This file covers the playful level — the transition from connection to chemistry that most men either skip entirely or attempt without the foundation that makes it work.
 
 ---
 
@@ -14,7 +14,7 @@ Think of it like cooking. During the platonic phase, you are gathering ingredien
 
 ## Why Playfulness Works — The Neurochemistry
 
-The same chemicals that are released in the brain when a person laughs are the same chemicals released during orgasm. Making someone laugh, when it happens on top of genuine connection, is telling them on a neurochemical level that you can produce that feeling in them. That is why laughter built on the foundation of real connection produces attraction — the chemical reward attaches to you specifically, because you are the source.
+The same chemicals that are released in the brain when a person laughs are the same chemicals released during orgasm. Making her laugh, when it happens on top of genuine connection, is telling her on a neurochemical level that you can produce that feeling in her. That is why laughter built on the foundation of real connection produces attraction — the chemical reward attaches to you specifically, because you are the source.
 
 Without that foundation, the laughter floats free. It is like hearing a song you love in a grocery store — you feel good in that moment and then you walk away and forget about it. The song was not attached to anything. It did not go home with you. A conversation that makes her laugh without making her feel connected is a comedy show. She enjoyed herself. She does not need to see the comedian again. A conversation that makes her laugh after she already feels seen, heard, and genuinely engaged — that laughter attaches to you. She thinks about it later. She wants more of it. The attachment is the difference.
 
@@ -22,9 +22,9 @@ Without that foundation, the laughter floats free. It is like hearing a song you
 
 ## Playfulness Is Not Performance
 
-This distinction matters more than anything else in this file. A person who is playful because they are genuinely enjoying the moment is attractive. A person who is playful because they are trying to be attractive is performing. She can tell the difference. The entertainment trap — working harder and harder to entertain while she grows less and less interested — is what happens when playfulness becomes performance. The test is simple: are you amusing yourself, or are you trying to amuse her? The first is play. The second is work.
+This distinction matters more than anything else in this file. A man who is playful because he is genuinely enjoying the moment is attractive. A man who is playful because he is trying to be attractive is performing. She can tell the difference. The entertainment trap — working harder and harder to entertain while she grows less and less interested — is what happens when playfulness becomes performance. The test is simple: are you amusing yourself, or are you trying to amuse her? The first is play. The second is work.
 
-Anybody can make a girl laugh. Not many people can make someone feel they need them. The distinction is not in the humor — it is in what the humor is layered on top of. When you have done the platonic work, when you have built real connection and real mutual knowing, and then you add playful on top of that — that is when a woman looks at you and thinks: I am interested. I need this. I need him.
+Anybody can make a girl laugh. Not many men can make a woman feel she needs him. The distinction is not in the humor — it is in what the humor is layered on top of. When you have done the platonic work, when you have built real connection and real mutual knowing, and then you add playful on top of that — that is when a woman looks at you and thinks: I am interested. I need this. I need him.
 
 ---
 
@@ -90,7 +90,7 @@ The moment where both people know this is not just friendly. It is not stated. I
 
 This level cannot be drilled. It cannot be manufactured. It is what happens when the first three levels have done their work and both people are present enough to notice that something shifted. The coach's job at Level 4 is not to teach the user how to create this moment. It is to teach them how to recognize it when it is happening, and how not to ruin it by filling the silence with words.
 
-The most common failure at Level 4: they feel the shift, panic, and say something to manage the tension. "So, uh, anyway..." or "That's funny because..." or any other tension-diffuser that converts a charged moment back into a safe conversation. The silence is the point. The discomfort is the signal that something real is happening. Sitting in it is the skill.
+The most common failure at Level 4: he feels the shift, panics, and says something to manage the tension. "So, uh, anyway..." or "That's funny because..." or any other tension-diffuser that converts a charged moment back into a safe conversation. The silence is the point. The discomfort is the signal that something real is happening. Sitting in it is the skill.
 
 ---
 
@@ -162,8 +162,8 @@ Before moving up the ladder, run this check:
 
 ## Connection to the Spark Principle
 
-Playfulness is not a departure from speaking from yourself. It is speaking from a specific part of yourself — the part that finds things funny, notices absurdity, and enjoys the moment. A person doing observational humor from genuine amusement is still at spark Level 2 or 3. They are disclosing how they see the world. They are just disclosing the lighter side.
+Playfulness is not a departure from speaking from yourself. It is speaking from a specific part of yourself — the part that finds things funny, notices absurdity, and enjoys the moment. A man doing observational humor from genuine amusement is still at spark Level 2 or 3. He is disclosing how he sees the world. He is just disclosing the lighter side.
 
-The failure mode is when playfulness replaces genuine disclosure. A person who is playful but never vulnerable is entertaining but not connecting. The ladder works in concert with spark — playfulness opens the door; vulnerability walks through it. A conversation that has both is one where she feels she has met a real person who is also fun to be around. A conversation that has only playfulness is a performance. A conversation that has only vulnerability is an interview.
+The failure mode is when playfulness replaces genuine disclosure. A man who is playful but never vulnerable is entertaining but not connecting. The ladder works in concert with spark — playfulness opens the door; vulnerability walks through it. A conversation that has both is one where she feels she has met a real person who is also fun to be around. A conversation that has only playfulness is a performance. A conversation that has only vulnerability is an interview.
 
 The balance: lead with play, land with truth. The funniest version of a genuine observation is still genuine. The most playful tease is still a real opinion. The ladder does not replace the spark principle — it extends it into a register the spark formula alone does not cover. See `reference/spark-formula.md` for the full spark mechanic, the three levels of disclosure, and the four moves. See `reference/connection-triangle.md` for the Me/You/Us framework the playful level operates within.
